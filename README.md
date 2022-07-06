@@ -47,7 +47,7 @@ It also contains Python and R Code
 + find important feature for feature_importances
 
 ## Decision Tree Results
-|thresholds|0.3|0.35||0.4|0.45|0.5||0.55|0.6|
+|thresholds|0.3|0.35|0.4|0.45|0.5|0.55|0.6|
 |---|---|---|---|---|---|---|---|
 |Accuracy|88.7%|89.0%|89.4%|89.4%|89.3%|89.3%|89.1%|
 |Precision|72.5%|67.7%|63.5%|63.5%|62.7%|61.6%|56.2%|
