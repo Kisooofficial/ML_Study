@@ -19,13 +19,13 @@ It also contains Python and R Code
 + Before building a model, Data preprocessing and EDA
 + Build Linear Regression and interpret a model
 + After building first model, do feature selection and compare with others.
-#### Using MAE, MSE, ANOVA, p-value
++ evaluate model with using MAE, MSE, ANOVA, p-value
 ## Logistic Regression
 + Before building a model, Data preprocessing and EDA
 + Build Logistic Regression and interpret a model
 + After building first model, do feature selection and compare with others.
 + Find proper Cut-off
-### Using confusion matrix, AIC, BIC, p-value
++ evaluate model with using MAE, MSE, ANOVA, p-value using confusion matrix, AIC, BIC, p-value
 
 # Details of Machine Learning Homework
 ## Clustering
