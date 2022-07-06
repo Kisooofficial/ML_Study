@@ -12,10 +12,18 @@ It also contains Python and R Code
 + Machine Learning for Clustering => https://archive.ics.uci.edu/ml/datasets/adult
 + Machine Learning for Decision Tree => https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset
 
-# Details
-## Details of Data Mining Homework - Linear Regression
+# Details of Data Mining Homework
+## Odds
 + Talking about Odds and how odds apply in real life
+## Linear Regression
 + Before building a model, Data preprocessing and EDA
 + Build Linear Regression and interpret a model
 + After building first model, do feature selection and compare with others.
+### Using MAE, MSE, ANOVA, p-value
+*****
+## Logistic Regression
++ Before building a model, Data preprocessing and EDA
++ Build Logistic Regression and interpret a model
++ After building first model, do feature selection and compare with others.
+### Using confusion matrix, AIC, BIC, p-value
 
