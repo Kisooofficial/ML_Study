@@ -47,10 +47,10 @@ It also contains Python and R Code
 + find important feature for feature_importances
 
 ## Decision Tree Results
-|Model|Vectorization|Accuracy|
-|------|---|---|
-|LogisticRegression|TF-IDF|86.8%|
-|LogisticRegression|CountVectorize|86.6%|
-|LogisticRegression(liblinear)|TF-IDF|86.7%|
-|LightGBM|TF-IDF|87.5%|
+|thresholds|0.3|0.35||0.4|0.45|0.5||0.55|0.6|
+|------|---|---||------|---|---||------|---|---|
+|Accuracy|88.7%|89.0%||Accuracy|88.7%|89.0%||Accuracy|88.7%|89.0%|
+|Precision|CountVectorize|86.6%|
+|Recall(liblinear)|TF-IDF|86.7%|
+|F1_score|TF-IDF|87.5%|
 |LSTM|Tokenizer|80.1%|
