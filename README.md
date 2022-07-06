@@ -19,8 +19,7 @@ It also contains Python and R Code
 + Before building a model, Data preprocessing and EDA
 + Build Linear Regression and interpret a model
 + After building first model, do feature selection and compare with others.
-### Using MAE, MSE, ANOVA, p-value
-*****
+#### Using MAE, MSE, ANOVA, p-value
 ## Logistic Regression
 + Before building a model, Data preprocessing and EDA
 + Build Logistic Regression and interpret a model
