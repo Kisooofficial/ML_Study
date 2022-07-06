@@ -26,9 +26,9 @@ It also contains Python and R Code
 + After building first model, do feature selection and compare with others.
 + Find proper Cut-off
 + evaluate model with using MAE, MSE, ANOVA, p-value using confusion matrix, AIC, BIC, p-value <br><br>
-<span style = "color:blue">The result was</span><br>
+<span style = "color:red">The result was</span><br>
 <img src = "https://user-images.githubusercontent.com/84063359/177470861-c8b37556-34fe-4e88-bd3e-df0c43a9203a.png" width = 80% height = 220></img><br>
-<span style = "color:blue">when pred_proba was 0.28, it was best on the basis of f1-score.</span>
+<span style = "color:red">when pred_proba was 0.28, it was best on the basis of f1-score.</span>
 
 # Details of Machine Learning Homework
 ## Clustering
