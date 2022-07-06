@@ -24,5 +24,17 @@ It also contains Python and R Code
 + Before building a model, Data preprocessing and EDA
 + Build Logistic Regression and interpret a model
 + After building first model, do feature selection and compare with others.
++ Find proper Cut-off
 ### Using confusion matrix, AIC, BIC, p-value
+
+# Details of Machine Learning Homework
+## Clustering
++ Data preprocessing and EDA
++ Clustering Analysis with KMeans, hierarchical Clustering, DBSCAN
++ make an intuitive comparison(because of unsupervised learning) and using Silhouette score, V-measure
++ Hyperparameter tuning
+
+## Decision Tree
++ Data preprocessing and EDA
++ Making 3 perc
 
