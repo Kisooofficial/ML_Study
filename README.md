@@ -13,7 +13,9 @@ It also contains Python and R Code
 + Machine Learning for Decision Tree => https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset
 
 # Details
-## Details of Data Mining Homework
+## Details of Data Mining Homework - Linear Regression
 + Talking about Odds and how odds apply in real life
 + Before building a model, Data preprocessing and EDA
-+ 
++ Build Linear Regression and interpret a model
++ After building first model, do feature selection and compare with others.
+
