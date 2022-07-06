@@ -36,5 +36,8 @@ It also contains Python and R Code
 
 ## Decision Tree
 + Data preprocessing and EDA
-+ Making 3 perc
-
++ make an outlier of 3 percent (Professor's homework requirements)
++ Build a model and compare(ex. if prune? or not?)
++ evaulate model with confusion matrix
++ Interpreting models with graphviz
++ Hyperparameter tuning for gridsearch
