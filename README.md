@@ -26,6 +26,7 @@ It also contains Python and R Code
 + After building first model, do feature selection and compare with others.
 + Find proper Cut-off
 + evaluate model with using MAE, MSE, ANOVA, p-value using confusion matrix, AIC, BIC, p-value
++ <img src = "https://user-images.githubusercontent.com/84063359/177470861-c8b37556-34fe-4e88-bd3e-df0c43a9203a.png" width = 300 height = 220></img>
 
 # Details of Machine Learning Homework
 ## Clustering
