@@ -45,3 +45,12 @@ It also contains Python and R Code
 + Interpreting models with graphviz
 + Hyperparameter tuning for gridsearch
 + find important feature for feature_importances
+
+## Decision Tree Results
+|Model|Vectorization|Accuracy|
+|------|---|---|
+|LogisticRegression|TF-IDF|86.8%|
+|LogisticRegression|CountVectorize|86.6%|
+|LogisticRegression(liblinear)|TF-IDF|86.7%|
+|LightGBM|TF-IDF|87.5%|
+|LSTM|Tokenizer|80.1%|
