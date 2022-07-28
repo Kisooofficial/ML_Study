@@ -18,7 +18,7 @@ library(gridExtra)
 
 data <- read.csv(file.choose(), header = 1)
 head(data)
-# date -> month, year·Î ³ª´³´Âµ¥ ¾ø³×? ±×·¡¼­ monthµµ »èÁ¦
+# date -> month, yearë¡œ ë‚˜ëˆ´ëŠ”ë° ì—†ë„¤? ê·¸ë˜ì„œ monthë„ ì‚­ì œ
 
 nrow(data)
 ncol(data)
@@ -29,7 +29,7 @@ sum(is.na(data))
 
 head(data)
 
-data <- data[, -c(1, 17, 18, 19)] #id, zipcode Á¦°Å
+data <- data[, -c(1, 17, 18, 19)] #id, zipcode ì œê±°
 head(data)
 
 
@@ -67,7 +67,7 @@ cor(data)
 corrplot(cor(data), 
          method="shade", 
          shade.col=NA, tl.col="black", tl.srt=45)
-#price¿Í ¿¬°ü¼º ³ôÀº°Íµé -> bathrooms, sqft_living, grade, sqft_above,
+#priceì™€ ì—°ê´€ì„± ë†’ì€ê²ƒë“¤ -> bathrooms, sqft_living, grade, sqft_above,
 #sqft_living15 + rooms + floors + waterfront + view + saft_basement
 data[, "log_price"] <- log(data$price)
 data
@@ -98,7 +98,7 @@ b <- ggplot(data = data) +
 
 grid.arrange(a, b, nrow = 2, ncol = 1)
 hist(data$bedrooms, col = "blue",breaks = 12,
-                      xlab= "¹æ °³¼ö")
+                      xlab= "ë°© ê°œìˆ˜")
 
 data <- data[!(data$bedrooms >= 7), ]
 
@@ -169,7 +169,7 @@ str(data$floors)
 ggplot(data = data) +
   geom_boxplot(aes(y = log_price), color = "blue") +
   theme_bw() +  
-  labs(y = "log_price") + ggtitle("logÈ­ ÇÑ °¡°İ")
+  labs(y = "log_price") + ggtitle("logí™” í•œ ê°€ê²©")
 
 ggplot(data, aes(x = log_price)) + 
   geom_bar(fill = "blue", colour = "red") +
@@ -333,10 +333,10 @@ data %>% group_by(grade) %>% summarise(mean = mean(price)) %>%
 data$grade <- as.numeric(data$grade)
 boxplot(log_price~floors, data = data,
         col = rainbow(7),
-        xlab = "Ãş ¼ö",
-        ylab = "°¡°İ",
-        main = "Ãş ¼öº° °¡°İ´ë")
-#price¿Í ¿¬°ü¼º ³ôÀº°Íµé -> bathrooms, sqft_living, grade, sqft_above,
+        xlab = "ì¸µ ìˆ˜",
+        ylab = "ê°€ê²©",
+        main = "ì¸µ ìˆ˜ë³„ ê°€ê²©ëŒ€")
+#priceì™€ ì—°ê´€ì„± ë†’ì€ê²ƒë“¤ -> bathrooms, sqft_living, grade, sqft_above,
 #sqft_living15 + rooms + floors + waterfront + view + saft_basement
 
 apply(data, 2, mean) 
@@ -390,7 +390,7 @@ library(Metrics)
 pred = predict(lm2, data = data_scale)
 mse(data$log_price, pred)
 mae(data$log_price, pred)
-#º¯¼ö ¼±ÅÃ¹ı
+#ë³€ìˆ˜ ì„ íƒë²•
 model1 <- lm(log_price~., data = data_scale)
 summary(model1)
 #floors > view > bedrooms > bathrooms > sqft_above > sqft_living15
