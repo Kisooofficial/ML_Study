@@ -43,7 +43,7 @@ table(logist_data$SEX)
 table(logist_data$EDUCATION)
 table(logist_data$MARRIAGE) 
 table(logist_data$`default payment next month`)
-#logist_data -> 0, 5, 6 Á¦¿Ü => unknown data
+#logist_data -> 0, 5, 6 ÃÂ¦Â¿Ãœ => unknown data
 logist_data <- subset(logist_data, (EDUCATION >= 1 & EDUCATION <= 4) &
                         (MARRIAGE >= 1 & MARRIAGE <= 2))
 
