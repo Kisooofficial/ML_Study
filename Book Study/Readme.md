@@ -12,4 +12,5 @@ This repository summarizes what I studied alone. I always studied with books fir
   + 22.07.30 : Chapter 5 code review, Chapter 6 theory
   + 22.07.31 : Nothing
   + 22.08.01 : Chapter 6 code review -> hard working for loading mnist
-  + 22.08.03 : Chapter 6 code review -> hard working
+  + 22.08.03 : Chapter 6 code review -> hard working for loading mnist but finally solve the problem. 
+  + 22.08.04 : Chapter 6 code review -> initializing weight parameter
