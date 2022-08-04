@@ -13,4 +13,5 @@ This repository summarizes what I studied alone. I always studied with books fir
   + 22.07.31 : Nothing
   + 22.08.01 : Chapter 6 code review -> hard working for loading mnist
   + 22.08.03 : Chapter 6 code review -> hard working for loading mnist but finally solve the problem. 
-  + 22.08.04 : Chapter 6 code review -> initializing weight parameter
+  + 22.08.04 : Chapter 6 code review -> initializing weight parameter, prevention of overfitting, finding optimal hyper parameter
+  + 22.08.04 : Chatper 7 theory -> How does Convolution Neural Network work?
