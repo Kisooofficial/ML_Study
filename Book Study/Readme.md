@@ -4,7 +4,7 @@ This repository summarizes what I studied alone. I always studied with books fir
 # What includes?
 + Deep learning that starts from the bottom(Korean version)
 
-# How much did I study?
+# Studying Schedule
 + Deep learning that starts from the bottom(Korean version)
   + 22.07.27 : Chapter 2, 3 theory and code review
   + 22.07.28 : Chapter 4 theory and code review
@@ -15,3 +15,4 @@ This repository summarizes what I studied alone. I always studied with books fir
   + 22.08.03 : Chapter 6 code review -> hard working for loading mnist but finally solve the problem. 
   + 22.08.04 : Chapter 6 code review -> initializing weight parameter, prevention of overfitting, finding optimal hyper parameter
   + 22.08.04 : Chatper 7 theory -> How does Convolution Neural Network work?
+  + 22.08.05 : Chapter 7 code review -> implements CNN  
