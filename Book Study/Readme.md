@@ -5,7 +5,7 @@ This repository summarizes what I studied alone. I always studied with books fir
 + Deep learning that starts from the bottom(Korean version)
 
 # Studying Schedule
-+ Deep learning that starts from the bottom(Korean version)
++ Deep learning from Scratch(Korean version) Season 1
   + 22.07.27 : Chapter 2, 3 theory and code review
   + 22.07.28 : Chapter 4 theory and code review
   + 22.07.29 : Chapter 5 theory
@@ -16,3 +16,7 @@ This repository summarizes what I studied alone. I always studied with books fir
   + 22.08.04 : Chapter 6 code review -> initializing weight parameter, prevention of overfitting, finding optimal hyper parameter
   + 22.08.04 : Chatper 7 theory -> How does Convolution Neural Network work?
   + 22.08.05 : Chapter 7 code review -> implements CNN  
+  + 22.08.06 : Chapter 8 theoory
+  
++ Deep learning from Scratch(Korean Version) Seanon 2
+  + 22.08.06 : Chapter 1 theory
