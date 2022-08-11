@@ -20,3 +20,4 @@ This repository summarizes what I studied alone. I always studied with books fir
   
 + Deep learning from Scratch(Korean Version) Seanon 2
   + 22.08.06 : Chapter 1 theory
+  + 22.08.11 : Chapter 1 code review
