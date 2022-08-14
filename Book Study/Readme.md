@@ -18,6 +18,7 @@ This repository summarizes what I studied alone. I always studied with books fir
   + 22.08.05 : Chapter 7 code review -> implements CNN  
   + 22.08.06 : Chapter 8 theoory
   
-+ Deep learning from Scratch(Korean Version) Seanon 2
++ Deep learning from Scratch(Korean Version) Season 2
   + 22.08.06 : Chapter 1 theory
   + 22.08.11 : Chapter 1 code review
+  + 22.08.14 : Chapter 2 theory
