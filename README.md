@@ -8,4 +8,6 @@ This repository summarizes what I studied about Machine Learning.
 # Repository
 + School course : study I did while taking school classes
 + Books : study I did alone.
++ Kaggle kenrel study : Kaggle kernel writing by referring to other people's kernels
+
 
