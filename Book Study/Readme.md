@@ -25,3 +25,4 @@ This repository summarizes what I studied alone. I always studied with books fir
   + 22.08.16 : Chapter 2 code review
   + 22.08.18 : Chapter 3 theory
   + 22.08.22 : Chapter 3 code review, Chapter 4 theory
+  + 22.08.23 : Chapter 4 code review
