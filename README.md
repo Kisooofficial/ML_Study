@@ -6,7 +6,7 @@ This repository summarizes what I studied about Machine Learning.
 + It includes machine learning activity while I studied alone
 
 # Repository
-+ School course : study I did while taking school classes
++ School course : Studying in the course "Data Mining" in 2022-Spring Semester
 + Books : study I did alone.
 + Kaggle kenrel study : Kaggle kernel writing by referring to other people's kernels
 
