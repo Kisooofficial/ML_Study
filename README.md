@@ -7,7 +7,7 @@ This repository summarizes what I studied about Machine Learning.
 
 # Repository
 + School course : Studying in the course "Data Mining" in 2022-Spring Semester
-+ Books : study I did alone.
++ Books : study I did alone such as "Hands-on Machine Learning"
 + Kaggle kenrel study : Kaggle kernel writing by referring to other people's kernels
 + MLRU : Studying in the association "MLRU" in 2022-Winter Vacation
 
